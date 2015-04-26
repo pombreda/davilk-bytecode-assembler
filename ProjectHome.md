@@ -1,0 +1,1 @@
+The name of this project is DBA (Dalvik Bytecode Assembler). The goal of this project is to develop a tool like ASM or BCEL. This generates bytecode at runtime and then it loads into Android system  dinamically.
